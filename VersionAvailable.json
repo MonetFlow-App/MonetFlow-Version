@@ -1,5 +1,5 @@
 {
-  "comment": "0: verfügbar | 1: ",
+  "comment": "0: verfügbar | 1: update vorschlagen | 2: update erzwingen | 3: Version deaktivieren",
   
   "v1.27.0.0": 0,
   "v1.27.9.1": 0,
