@@ -1,4 +1,4 @@
 {
-  "normal": "shutdown",
-  "beta": "shutdown"
+  "normal": 1.27,
+  "beta": 1.2793
 }
