@@ -1,5 +1,5 @@
 {
-  "comment": "0: standard | 1: update vorschlagen | 2: update empfehlen | 3: update erzwingen | 4: update ignorieren | 5: Version deaktivieren",
+  "comment": "0: standard | 1: update vorschlagen | 2: update empfehlen | 3: update erzwingen | 4: update nicht installieren!!! | 5: Version deaktivieren",
   "comment to all": "0: standard | 1: shutdown",
 
   "all": 0,
